@@ -36,7 +36,7 @@ very much a work in progress.
 License
 -------
 
-GPL version 3 or later, please see [LICENSE](LICENSE.md) for the full text.
+AGPL version 3 or later, please see [LICENSE](LICENSE.md) for the full text.
 Some bundled third-party components have [other licenses](vendor/README.md).
 
 Thanks to [Icons8](http://icons8.com/) for letting us use their icons.
